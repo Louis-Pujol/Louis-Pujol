@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h1 align="center">Welcome to my GitHub profile :wave: I am Louis Pujol, a software research engineer based in France.</h1>
+<h1 align="center">Welcome to my GitHub profile :wave: I am Louis Pujol, a research software engineer based in France.</h1>
 
 - 🔭 I’m currently working on [scikit-shapes](https://github.com/scikit-shapes/scikit-shapes)
 - 🌱 I’m currently learning shape analysis, physics-informed machine learning
