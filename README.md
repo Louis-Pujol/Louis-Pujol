@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [scikit-shapes](https://github.com/scikit-shapes/scikit-shapes)
 - 🌱 I’m currently learning shape analysis, physics-informed machine learning
 - 🎓 I've studied statistics and theoretical machine learning
-- ✨ I'm eager to contribute to the open source software ecosystem for science
+- ✨ I'm eager to contribute to open source software for science
 - 🐍 Python is my mother tongue
 
 <!--
