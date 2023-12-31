@@ -16,7 +16,7 @@ A brief introduction
 My activity on GitHub revolves around (as a contributor or a maintainer)
 - Contributing to high-level APIs for scientific computing ([scikit-shapes](https://github.com/scikit-shapes/scikit-shapes), [pyvista](https://github.com/pyvista/pyvista), [ml-ballistics](https://github.com/Louis-Pujol/ml-ballistics))
 - Optimizing numerical routines, mainly with [cython](https://cython.org/) or [pytorch](https://pytorch.org/) ([fast-simplification](https://github.com/pyvista/fast-simplification), [shell-energy-pytorch](https://github.com/Louis-Pujol/shell-energy-pytorch), [cython_ncells_from_cells](https://github.com/Louis-Pujol/cython_ncells_from_cells))
-- Contributing to tools that ease the development process ([mkdocs-gallery](https://github.com/smarie/mkdocs-gallery), [local-cq](https://github.com/Louis-Pujol/local-cq))
+- Contributing to tools for python developers ([mkdocs-gallery](https://github.com/smarie/mkdocs-gallery), [local-cq](https://github.com/Louis-Pujol/local-cq))
 
 Want to know more ? Check out my [website](https://louis-pujol.github.io/)
 <!--
