@@ -6,7 +6,7 @@
 
 <h1 align="center">Welcome to my GitHub profile :wave: I am Louis Pujol, a research software engineer based in France.</h1>
 
-- :hospital: I am a member of the [HeKA](https://team.inria.fr/heka/fr/) research team
+- :hospital: I'm a member of the [HeKA](https://team.inria.fr/heka/fr/) research team
 - 🔭 I’m currently working on [scikit-shapes](https://github.com/scikit-shapes/scikit-shapes)
 - 🌱 I’m currently learning shape analysis, physics-informed machine learning, 3D visualization
 - 🎓 I've studied statistics and theoretical machine learning
